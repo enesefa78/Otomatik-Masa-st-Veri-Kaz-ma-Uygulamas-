@@ -1,1 +1,1 @@
-# Otomatik-Masa-st-Veri-Kaz-ma-Uygulamas-
+# Otomatik-Masaustu-Veri-Kazima-Uygulamasi
