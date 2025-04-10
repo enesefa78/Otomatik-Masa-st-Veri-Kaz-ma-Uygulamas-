@@ -1,1 +1,1 @@
-# Otomatik-Masaustu-Veri-Kazima-Uygulamasi
+# Web-Scraping-Application
